@@ -21,3 +21,6 @@ dirs = "2.0.2"
 git2 = "0.13.8"
 termcolor = "1.1.0"
 which = "4.0.1"
+
+[dev-dependencies]
+atomic-counter = "1.0.1"
